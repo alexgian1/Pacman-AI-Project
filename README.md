@@ -1,4 +1,4 @@
-# Pacman Berkeley AI Project
+# Berkeley Pacman AI Project
 The project is implemented in Python 3.6 </br>
 
 </br>
